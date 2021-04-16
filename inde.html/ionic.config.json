@@ -1,7 +1,0 @@
-{
-  "name": "inde.html",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
